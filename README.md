@@ -1,1 +1,1 @@
-My first readme updated
+Updating README.md from GitHub interface.
